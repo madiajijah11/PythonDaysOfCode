@@ -23,6 +23,7 @@ def count_vowels(string):
 
 
 # Prompt the user to enter a string
+print(count_vowels.__doc__)
 print("Enter a string: ")
 STRING = input()
 

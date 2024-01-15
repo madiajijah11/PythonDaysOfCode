@@ -15,6 +15,7 @@ def find_max_and_min(list_of_numbers: list) -> tuple:
 
 
 # Prompt the user to enter a list of numbers
+print(find_max_and_min.__doc__)
 # Example input: [1, 2, 3, 4, 5]
 LIST = input("Enter a list of numbers: ")
 

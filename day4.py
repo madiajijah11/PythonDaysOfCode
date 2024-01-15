@@ -13,6 +13,7 @@ def calculate_sum_of_list(list_of_numbers: list) -> int:
 
 
 # Prompt the user to enter a list of numbers
+print(calculate_sum_of_list.__doc__)
 # Example input: [1, 2, 3, 4, 5]
 LIST = input("Enter a list of numbers: ")
 
