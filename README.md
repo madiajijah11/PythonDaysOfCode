@@ -11,3 +11,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 4 - [Write a program to find the sum of all elements in a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day4.py)
 
 #### Day 5 - [Write a program to find the maximum and minimum values in a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day5.py)
+
+#### Day 6 - [Write a program to count the occurrences of a specific character in a string.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day6.py)

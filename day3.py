@@ -13,6 +13,8 @@ def count_vowels(string):
     counter = 0
     # Define a list of vowels
     vowels = ["a", "e", "i", "o", "u"]
+    # Convert the string to lowercase
+    string = string.lower()
     # Loop through each character in the string
     for letter in string:
         # If the character is a vowel, increment the counter
