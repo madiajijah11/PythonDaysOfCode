@@ -1,5 +1,5 @@
 # Write a function to count the number of vowels in a given string.
-def count_vowels(string):
+def count_vowels(string: str) -> int:
     """
     Counts the number of vowels in a given string.
 
@@ -9,19 +9,8 @@ def count_vowels(string):
     Returns:
         int: The number of vowels in the string.
     """
-    # Initialize a counter to keep track of the number of vowels
-    counter = 0
-    # Define a list of vowels
-    vowels = ["a", "e", "i", "o", "u"]
-    # Convert the string to lowercase
-    string = string.lower()
-    # Loop through each character in the string
-    for letter in string:
-        # If the character is a vowel, increment the counter
-        if letter in vowels:
-            counter += 1
-    # Return the counter
-    return counter
+    # Convert the string to lowercase and count the number of vowels using the sum and in-built count function
+    return sum(string.lower().count(vowel) for vowel in "aeiou")
 
 
 # Prompt the user to enter a string

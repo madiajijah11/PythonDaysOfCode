@@ -3,26 +3,17 @@
 
 def count_occurrences(string: str, character: str) -> int:
     """
-    Counts the occurrences of a specific character in a string.
+    Counts the number of occurrences of a character in a given string.
 
     Args:
-        string (str): The input string to count occurrences from.
-        character (str): The character to count occurrences of.
+        string (str): The input string to count character from.
+        character (str): The character to count.
 
     Returns:
         int: The number of occurrences of the character in the string.
     """
-    # Initialize a counter to keep track of the number of occurrences
-    counter = 0
-    # Convert the string to lowercase
-    string = string.lower()
-    # Loop through each character in the string
-    for letter in string:
-        # If the character matches the character to count, increment the counter
-        if letter == character:
-            counter += 1
-    # Return the counter
-    return counter
+    # Convert the string and character to lowercase and count the number of occurrences
+    return string.lower().count(character.lower())
 
 
 # Prompt the user to enter a string
