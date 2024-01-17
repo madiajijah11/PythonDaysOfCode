@@ -13,3 +13,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 5 - [Write a program to find the maximum and minimum values in a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day5.py)
 
 #### Day 6 - [Write a program to count the occurrences of a specific character in a string.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day6.py)
+
+#### Day 7 - [Write a program to check if a number is positive, negative, or zero.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day7.py)
