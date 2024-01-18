@@ -15,3 +15,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 6 - [Write a program to count the occurrences of a specific character in a string.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day6.py)
 
 #### Day 7 - [Write a program to check if a number is positive, negative, or zero.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day7.py)
+
+#### Day 8 - [Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day8.py)
