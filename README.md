@@ -19,3 +19,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 8 - [Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day8.py)
 
 #### Day 9 - [Write a program to check if a number is even or odd.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day9.py)
+
+#### Day 10 - [Write a program to remove duplicates from a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day10.py)
