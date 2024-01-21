@@ -21,3 +21,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 9 - [Write a program to check if a number is even or odd.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day9.py)
 
 #### Day 10 - [Write a program to remove duplicates from a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day10.py)
+
+#### Day 11 - [Write a program to print the multiplication table of a given number.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day11.py)
