@@ -25,3 +25,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 11 - [Write a program to print the multiplication table of a given number.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day11.py)
 
 #### Day 12 - [Write a program to reverse a given string.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day12.py)
+
+#### Day 13 - [Write a program to shuffle the elements of a list randomly.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day13.py)
