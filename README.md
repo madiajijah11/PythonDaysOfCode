@@ -27,3 +27,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 12 - [Write a program to reverse a given string.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day12.py)
 
 #### Day 13 - [Write a program to shuffle the elements of a list randomly.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day13.py)
+
+#### Day 14 - [Write a program to print the first n numbers of a Fibonacci sequence.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day14.py)
