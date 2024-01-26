@@ -31,3 +31,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 14 - [Write a program to print the first n numbers of a Fibonacci sequence.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day14.py)
 
 #### Day 15 - [Create a program that checks if a year is a leap year.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day15.py)
+
+#### Day 16 - [# Write a function that counts the frequency of each word in a sentence.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day16.py)
