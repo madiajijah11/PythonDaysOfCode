@@ -33,3 +33,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 15 - [Create a program that checks if a year is a leap year.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day15.py)
 
 #### Day 16 - [Write a function that counts the frequency of each word in a sentence.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day16.py)
+
+#### Day 17 - [Create a program that capitalizes the first letter of each word in a sentence.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day17.py)
