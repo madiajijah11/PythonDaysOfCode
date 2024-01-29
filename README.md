@@ -37,3 +37,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 17 - [Create a program that capitalizes the first letter of each word in a sentence.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day17.py)
 
 #### Day 18 - [Create a program to find the largest among three numbers.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day18.py)
+
+#### Day 19 - [Write a function to calculate the factorial of a number.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day19.py)
