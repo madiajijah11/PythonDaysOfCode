@@ -39,3 +39,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 18 - [Create a program to find the largest among three numbers.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day18.py)
 
 #### Day 19 - [Write a function to calculate the factorial of a number.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day19.py)
+
+#### Day 20 - [Write a function that takes a list of numbers and returns a new list containing only the even numbers.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day20.py)
