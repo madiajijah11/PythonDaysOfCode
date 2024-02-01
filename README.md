@@ -43,3 +43,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 20 - [Write a function that takes a list of numbers and returns a new list containing only the even numbers.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day20.py)
 
 #### Day 21 - [Create a program to remove a specific element from a set.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day21.py)
+
+#### Day 22 - [Create a program to find the second-largest element in a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day22.py)
