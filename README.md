@@ -45,3 +45,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 21 - [Create a program to remove a specific element from a set.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day21.py)
 
 #### Day 22 - [Create a program to find the second-largest element in a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day22.py)
+
+#### Day 23 - [Write a program that checks if a key exists in a dictionary.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day23.py)
