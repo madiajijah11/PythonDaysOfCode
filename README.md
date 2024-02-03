@@ -47,3 +47,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 22 - [Create a program to find the second-largest element in a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day22.py)
 
 #### Day 23 - [Write a program that checks if a key exists in a dictionary.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day23.py)
+
+#### Day 24 - [Write a program to remove vowels from a given string.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day24.py)
