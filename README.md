@@ -49,3 +49,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 23 - [Write a program that checks if a key exists in a dictionary.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day23.py)
 
 #### Day 24 - [Write a program to remove vowels from a given string.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day24.py)
+
+#### Day 25 - [Create a program to concatenate two lists.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day25.py)
