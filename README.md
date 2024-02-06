@@ -51,3 +51,7 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 24 - [Write a program to remove vowels from a given string.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day24.py)
 
 #### Day 25 - [Create a program to concatenate two lists.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day25.py)
+
+#### Day 26 - [Create a program that uses a lambda function to square each element of a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day26.py)
+
+#### Day 27 - [Create a program that sorts a list of strings alphabetically.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day27.py)
