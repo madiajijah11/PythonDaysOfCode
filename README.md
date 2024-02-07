@@ -55,3 +55,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 26 - [Create a program that uses a lambda function to square each element of a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day26.py)
 
 #### Day 27 - [Create a program that sorts a list of strings alphabetically.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day27.py)
+
+#### Day 28 - [Create a program that removes the nth element from a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day28.py)
