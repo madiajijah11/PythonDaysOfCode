@@ -57,3 +57,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 27 - [Create a program that sorts a list of strings alphabetically.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day27.py)
 
 #### Day 28 - [Create a program that removes the nth element from a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day28.py)
+
+#### Day 29 - [Create a function that generates a random number between a given range.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day29.py)
