@@ -59,3 +59,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 28 - [Create a program that removes the nth element from a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day28.py)
 
 #### Day 29 - [Create a function that generates a random number between a given range.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day29.py)
+
+#### Day 30 - [Create a function that finds the second smallest element in a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day30.py)
