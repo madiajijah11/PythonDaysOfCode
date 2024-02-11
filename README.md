@@ -62,4 +62,6 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 
 #### Day 30 - [Create a function that finds the second smallest element in a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day30.py)
 
-#### Day 31- [Create a program that checks if a given string is a valid email address.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day31.py)
+#### Day 31 - [Create a program that checks if a given string is a valid email address.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day31.py)
+
+#### Day 32 - [Create a function that calculates the average of a list of numbers.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day32.py)
