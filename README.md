@@ -65,3 +65,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 31 - [Create a program that checks if a given string is a valid email address.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day31.py)
 
 #### Day 32 - [Create a function that calculates the average of a list of numbers.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day32.py)
+
+#### Day 33 - [Write a test case for a function that checks if a number is prime.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day33.py)
