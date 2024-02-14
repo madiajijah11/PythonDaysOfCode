@@ -69,3 +69,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 33 - [Write a test case for a function that checks if a number is prime.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day33.py)
 
 #### Day 34 - [Write a Python program to merge two dictionaries.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day34.py)
+
+#### Day 35 - [Write a simple unit test for a function that adds two numbers.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day35.py)
