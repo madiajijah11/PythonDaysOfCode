@@ -71,3 +71,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 34 - [Write a Python program to merge two dictionaries.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day34.py)
 
 #### Day 35 - [Write a simple unit test for a function that adds two numbers.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day35.py)
+
+#### Day 36 - [Write a Python program to check if two strings are anagrams.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day36.py)
