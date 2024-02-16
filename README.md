@@ -73,3 +73,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 35 - [Write a simple unit test for a function that adds two numbers.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day35.py)
 
 #### Day 36 - [Write a Python program to check if two strings are anagrams.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day36.py)
+
+#### Day 37 - [Write a program to iterate through a dictionary and print its keys and values.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day37.py)
