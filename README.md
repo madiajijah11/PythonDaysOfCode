@@ -77,3 +77,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 37 - [Write a program to iterate through a dictionary and print its keys and values.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day37.py)
 
 #### Day 38 - [Write a program to flatten a nested list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day38.py)
+
+#### Day 39 - [Write a program to find the most common words in a text file.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day39.py)
