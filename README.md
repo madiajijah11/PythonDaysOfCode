@@ -79,3 +79,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 38 - [Write a program to flatten a nested list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day38.py)
 
 #### Day 39 - [Write a program to find the most common words in a text file.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day39.py)
+
+#### Day 40 - [Write a function to find the largest common divisor of two numbers using a function.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day40.py)
