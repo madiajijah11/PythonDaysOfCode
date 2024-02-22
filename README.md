@@ -85,3 +85,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 41 - [Write a program that uses recursion to generate all permutations of a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day41.py)
 
 #### Day 42 - [Write a program that uses a try-except block to handle division by zero.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day42.py)
+
+#### Day 43 - [Write a program that removes all whitespaces from a given string.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day43.py)
