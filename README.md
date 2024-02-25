@@ -91,3 +91,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 44 - [Write a program that reads an integer from the user and handles invalid inputs.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day44.py)
 
 #### Day 45 - [Write a function to check if a number is a prime number.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day45.py)
+
+#### Day 46 - [Write a function to check if a given list is sorted.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day46.py)
