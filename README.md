@@ -95,3 +95,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 46 - [Write a function to check if a given list is sorted.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day46.py)
 
 #### Day 47 - [Create a program that imports the math module and uses its functions.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day47.py)
+
+#### Day 48 - [Create a program that replaces specific words in a text with their synonyms.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day48.py)
