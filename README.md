@@ -99,3 +99,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 48 - [Create a program that replaces specific words in a text with their synonyms.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day48.py)
 
 #### Day 49 - [Create a program that implements the bubble sort algorithm.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day49.py)
+
+#### Day 50 - [Create a program that finds the intersection and union of two sets.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day50.py)
