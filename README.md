@@ -101,3 +101,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 49 - [Create a program that implements the bubble sort algorithm.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day49.py)
 
 #### Day 50 - [Create a program that finds the intersection and union of two sets.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day50.py)
+
+#### Day 51 - [Create a program that counts the occurrences of each word in a text file.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day51.py)
