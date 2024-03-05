@@ -109,3 +109,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 53 - [Create a program that allows users to draw on a canvas using a GUI.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day53.py)
 
 #### Day 54 - [Create a function to find all words in a sentence that start with a vowel.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day54.py)
+
+#### Day 55 - [Create a function that takes a string and returns the reverse of each word.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day55.py)
