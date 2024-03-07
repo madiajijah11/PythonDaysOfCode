@@ -113,3 +113,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 55 - [Create a function that takes a string and returns the reverse of each word.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day55.py)
 
 #### Day 56 - [Create a function to extract all URLs from a given text using regular expressions.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day56.py)
+
+#### Day 57 - [Create a function that returns the key with the maximum value in a dictionary.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day57.py)
