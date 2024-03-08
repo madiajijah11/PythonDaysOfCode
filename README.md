@@ -115,3 +115,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 56 - [Create a function to extract all URLs from a given text using regular expressions.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day56.py)
 
 #### Day 57 - [Create a function that returns the key with the maximum value in a dictionary.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day57.py)
+
+#### Day 58 - [Create a function that converts a string to an integer and handles ValueError.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day58.py)
