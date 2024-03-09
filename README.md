@@ -117,3 +117,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 57 - [Create a function that returns the key with the maximum value in a dictionary.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day57.py)
 
 #### Day 58 - [Create a function that converts a string to an integer and handles ValueError.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day58.py)
+
+#### Day 59 - [Create a function that checks if a number is a perfect square.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day59.py)
