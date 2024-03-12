@@ -121,3 +121,5 @@ Participating in the Woman Who Code Python Days Of Code Challenge
 #### Day 59 - [Create a function that checks if a number is a perfect square.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day59.py)
 
 #### Day 60 - [Create a class representing a simple bank account with deposit and withdraw methods.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day60.py)
+
+#### Day 61 - [Create a program to implement a stack using a list.](https://github.com/madiajijah11/PythonDaysOfCode/blob/main/day61.py)
